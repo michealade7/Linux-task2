@@ -1,0 +1,14 @@
+# Evidence generated locally
+evidence/screenshots/*
+evidence/terminal-output/*
+
+# Keep directory placeholders
+!evidence/screenshots/.gitkeep
+!evidence/terminal-output/.gitkeep
+
+# Editor/system files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
